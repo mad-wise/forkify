@@ -1,3 +1,3 @@
 # forkify Project
 
-Recipe application with custom recipe uploads. Made whike listening to a course of Jonas Schmedtmann.
+Recipe application with custom recipe uploads. Made while listening to a course of Jonas Schmedtmann.
